@@ -1,0 +1,8 @@
+C:\Programming\Car_Plates\Car_Plates\bin\Debug\Car_Plates.exe.config
+C:\Programming\Car_Plates\Car_Plates\bin\Debug\Car_Plates.exe
+C:\Programming\Car_Plates\Car_Plates\bin\Debug\Car_Plates.pdb
+C:\Programming\Car_Plates\Car_Plates\obj\Debug\Car_Plates.csproj.AssemblyReference.cache
+C:\Programming\Car_Plates\Car_Plates\obj\Debug\Car_Plates.csproj.SuggestedBindingRedirects.cache
+C:\Programming\Car_Plates\Car_Plates\obj\Debug\Car_Plates.csproj.CoreCompileInputs.cache
+C:\Programming\Car_Plates\Car_Plates\obj\Debug\Car_Plates.exe
+C:\Programming\Car_Plates\Car_Plates\obj\Debug\Car_Plates.pdb
